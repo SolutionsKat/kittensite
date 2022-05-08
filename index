@@ -1,0 +1,63 @@
+<html><head>
+    <meta charset="utf-8">
+    <title>Kat Solutions</title>
+    <link rel="icon" href="https://about.gitlab.com/images/press/logo/png/gitlab-icon-1-color-black-rgb.png">
+    <link href="https://unpkg.com/tailwindcss@1.9.6/dist/tailwind.min.css" rel="stylesheet">
+    <style type="text/css">
+      html {
+        background-color: black;
+      }
+      text {
+        font-size:xx-large;
+        font-family: monospace;
+        color: white;
+        font-weight: bold;
+      }
+      p {
+        font-size:xx-large;
+        font-family: monospace;
+        color: rgb(0, 102, 255);
+        font-weight: bold;
+        text-decoration: underline double rgb(0, 187, 255);
+        text-underline-position: under;
+      }
+      c {
+        font-size:xx-large;
+        font-family: monospace;
+        color: rgb(0, 255, 0);
+        font-weight: bold;
+      }
+      z {
+        font-size:xx-large;
+        font-family: monospace;
+        color: white;
+        font-weight: bold;
+      }
+    </style>
+      <meta content="Kat Solutions" property="og:title">
+  <meta content="https://media.discordapp.net/attachments/877240286324080672/877355018041323531/873923308402409473.gif" property="og:image">
+  <meta content="#43B581" data-react-helmet="true" name="theme-color">
+  </head>
+  <body><div class="flex h-screen justify-center items-center">
+    <div class="text-center">
+      <center>
+  
+    <z>Website TRGT: <c>$3</c></z><br>
+    <z>Server TRGT:<c> $5</c></z><br>
+    <z>Person TRGT: <c> $6</c></z><br><br>
+    <text>Payment:</text><br>
+    <p><a href="https://cash.app/$pogkatze/">Cashapp: $pogkatze</a></p>
+    
+    <br><br>
+    <text>Note (Click The Blue Text Above For A Quick Redirect)</text>
+    
+    
+    
+    
+    
+        </center>
+      </div>
+    </div>
+  
+
+</body></html>
